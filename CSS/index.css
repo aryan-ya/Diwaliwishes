@@ -155,14 +155,15 @@ h1 span{
       background-color: orangered;
       border-radius: 15px;
       opacity: 0.8;
-      font-family: 'Dancing Script', cursive;
+      /* font-family: 'Dancing Script', cursive; */
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   }
 
   footer .content{
       margin: 0px 25px;
       text-align: center;
       font-size: 18px;
-      font-weight: 700;
+      /* font-weight: 700; */
   }
 
   footer .H{
