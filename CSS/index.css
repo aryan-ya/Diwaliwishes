@@ -13,7 +13,7 @@ body{
     left: 50%;
     height: 350px;
     width: 350px;
-    border: 2px solid gray;
+    border: 2px solid rgb(241, 187, 11);
     border-radius: 50%;
     transform: translate(-50%, -50%);
     background-color: rgb(226, 147, 43);
@@ -24,7 +24,7 @@ body{
     content: ' ';
     height: 100%;
     width: 100%;
-    border: 4px dotted white;
+    border: 4px dotted rgb(235, 204, 30);
     border-radius: 50%;
     position: absolute;
     box-sizing: border-box;
@@ -147,16 +147,16 @@ h1 span{
 
 
   footer{
-      color: bisque;
+      color: rgb(46, 0, 0);
       top: 84%;
       position: absolute;
       margin: 0 25%;
       width: 50%;
-      background-color: orangered;
+      background-color: rgb(197, 184, 0);
       border-radius: 15px;
       opacity: 0.8;
       /* font-family: 'Dancing Script', cursive; */
-      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial;
   }
 
   footer .content{
